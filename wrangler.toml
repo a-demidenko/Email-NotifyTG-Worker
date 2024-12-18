@@ -6,7 +6,7 @@ TOKEN = "5025503931:AAG4xw5sw-yNheLzfHKZY8wBxUf9nP-JL_M"
 send_email = [
     {type = "send_email", name = "SEB"},
 ]
-CFURL = "https://example.example.workers.dev/"
+CFURL = "https://tg.hello-daf.workers.dev/"
 
 [[ d1_databases ]]
 binding = "DB"
