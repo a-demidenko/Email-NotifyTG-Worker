@@ -11,4 +11,4 @@ CFURL = "https://tg.hello-daf.workers.dev/"
 [[ d1_databases ]]
 binding = "DB"
 database_name = "emaildb"
-database_id = "CFWTGW"
+database_id = "ad221a74-936e-4789-a949-35c1699c13fd"
