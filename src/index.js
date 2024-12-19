@@ -6,9 +6,9 @@ const PostalMime = require('postal-mime');
 
 // Define a list of email addresses and their corresponding chatIds and forward email ids
       const emailList = [
-        { to: "tg@spb-clean.ru", chatId: 687531747, fMailid: "tg@spb-clean.ru", toForward: false }, //only sends notification as its false
-        { to: "tg@spb-clean.ru", chatId: 687531747, fMailid: "tg@spb-clean.ru", toForward: true }, //sends & forward
-        { to: "tg@spb-clean.ru", chatId: 687531747, fMailid: "tg@spb-clean.ru", toForward: false },
+        { to: "tg@fabrika-himchistki.ru", chatId: 687531747, fMailid: "tg@fabrika-himchistki.ru", toForward: false }, //only sends notification as its false
+        { to: "tg@fabrika-himchistki.ru", chatId: 687531747, fMailid: "tg@fabrika-himchistki.ru", toForward: true }, //sends & forward
+        { to: "tg@fabrika-himchistki.ru", chatId: 687531747, fMailid: "tg@fabrika-himchistki.ru", toForward: false },
       ];
 
 async function streamToArrayBuffer(stream, streamSize) {
