@@ -22,7 +22,7 @@ Email Worker that sends you notifications on Telegram once emails are received.
       ];
 ```
 
-4. Set up the necessary environment variables secrets in `Settings`:
+4. Set up the necessary environment var iables secrets in `Settings`:
    * `CLOUDFLARE_TOKEN`: Generate from cloudflare account
 5. Go to D1 `emaildb` database console & execute
 ```sql
